@@ -1,0 +1,17 @@
+{
+  "name": "My Healthy Journey",
+  "short_name": "Healthy Journey",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f5ef",
+  "theme_color": "#66836a",
+  "description": "30-day Saint Lucian balanced meal planner",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
